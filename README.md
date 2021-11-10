@@ -1,5 +1,5 @@
 # GENIUS_DISPLAY_LCM
-### An arduino genius program adapted to a Display LCM <br><br>
+## An arduino genius program adapted to a Display LCM <br><br>
 
 
 <p>Have you ever seen a genius toy? <br>
@@ -14,7 +14,7 @@ This is a picture of one
 
 
 
-### First, the genius arduino program working in a breadboard 
+### First, the arduino genius program working in a breadboard 
 
 ![gif](https://user-images.githubusercontent.com/75899235/141028321-d0494169-eb13-494f-b30d-5b84e7d28e22.gif)
 
