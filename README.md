@@ -5,7 +5,7 @@
 <p>Have you ever seen a genius toy? <br>
 It is a memory test toy designed for kids. <br>
  
-Thats picture of one
+This is a picture of one
 </p>
 
 ![download](https://user-images.githubusercontent.com/75899235/141028712-270b45a7-deca-4061-b572-fb9723cf27b4.jpg)
