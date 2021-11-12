@@ -5,7 +5,10 @@
 <p>Have you ever seen a genius toy? <br>
 It is a memory test toy designed for kids. <br>
  
-This is a picture of one
+Basically, you have to press the colored buttons in the correct sequence. Each time you get it right, the streak will increase by 1
+ 
+This is a picture of one of these toys: 
+
 </p>
 
 ![download](https://user-images.githubusercontent.com/75899235/141028712-270b45a7-deca-4061-b572-fb9723cf27b4.jpg)
