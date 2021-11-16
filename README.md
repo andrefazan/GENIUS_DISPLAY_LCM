@@ -1,4 +1,4 @@
-# GENIUS_DISPLAY_LCM
+# The Genius Game in a Display LCM
 ## An arduino genius program adapted to a Display LCM <br><br>
 
 
