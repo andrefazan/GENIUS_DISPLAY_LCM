@@ -26,3 +26,16 @@ This is a picture of one of these toys:
 ### Now, the program adapted to a display LCM
 
 ![genius lcm](https://user-images.githubusercontent.com/75899235/141026189-f93c6b56-e790-4b88-9fd0-38fb9b082176.gif)
+
+
+
+
+
+<p align="center">I used a Smart Display Dev kit to do that <br>
+If you were interested you can check it out <a href="https://victorvision.com.br/produtos/pbox/">here</a> <br>
+And the <a href="https://victorvision.com.br/docs/arduino-library/">display library for arduino here</a>
+</p>
+
+
+
+
